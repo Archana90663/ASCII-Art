@@ -2,9 +2,7 @@ import java.util.Iterator;
 
 /**
  * Stack Abstract Data Type<br>
- * CS 300 P8 Assignment
  *
- * @author Mingi
  *
  * @param <T> the type of objects to be stored in this stack
  */
